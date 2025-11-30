@@ -1,6 +1,12 @@
 # Task Manager — Full-Stack Application
 A fully containerized Task Management System built using:
 
+---
+
+🔗 **Live App**: [View on Vercel](https://taketask100.vercel.app/)
+
+---
+
 - Frontend: React + Vite + Tailwind  
 - Backend: Node.js + Express + Prisma ORM  
 - Database: PostgreSQL  
