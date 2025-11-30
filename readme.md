@@ -178,5 +178,6 @@ docker-compose up --build
 Frontend → http://localhost:5173  
 Backend → http://localhost:5000
 
+---
 
-
+> ⚠️ This project is in active development. More features and improvements are coming soon.
